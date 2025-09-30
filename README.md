@@ -1,4 +1,4 @@
-# Codeforces Solutions Repository
+# ![Codeforces Logo](https://upload.wikimedia.org/wikipedia/commons/1/11/Codeforces_logo.png) Codeforces Solutions Repository
 
 Welcome to my **Codeforces Solutions** repository! 🖥️✨  
 This repository contains all my solutions to problems from [Codeforces](https://codeforces.com/), a competitive programming platform.  
@@ -8,7 +8,6 @@ This repository contains all my solutions to problems from [Codeforces](https://
 ## 📂 Repository Structure
 
 I organize my solutions based on **problem difficulty**, **contest**, or **topic**. For example:
-
 
 ---
 
