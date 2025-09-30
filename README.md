@@ -1,4 +1,8 @@
-# ![Codeforces Logo](https://upload.wikimedia.org/wikipedia/commons/1/11/Codeforces_logo.png) Codeforces Solutions Repository
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Codeforces_logo.png" alt="Codeforces Logo" width="150"/>
+</p>
+
+# Codeforces Solutions Repository
 
 Welcome to my **Codeforces Solutions** repository! 🖥️✨  
 This repository contains all my solutions to problems from [Codeforces](https://codeforces.com/), a competitive programming platform.  
