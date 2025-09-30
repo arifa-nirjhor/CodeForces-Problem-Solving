@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Codeforces_logo.png" alt="Codeforces Logo" width="150"/>
-</p>
 
 # Codeforces Solutions Repository
 
